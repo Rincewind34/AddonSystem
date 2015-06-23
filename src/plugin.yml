@@ -1,0 +1,10 @@
+name: Core
+version: 0.1.0
+main: de.securebit.plugin.CraftCore
+
+author: SecureBit
+authors: [Janhektor,Rincewind]
+
+website: http://secure-bit.eu/prototype/
+
+prefix: BedwarsCore
